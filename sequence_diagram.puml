@@ -1,0 +1,7 @@
+@startuml
+YouTuber ->> YouTube: Get video captions
+YouTube ->> YouTuber: Captions
+YouTuber ->> TextCorrector: Correct captions
+TextCorrector ->> YouTuber: Corrected captions
+YouTuber ->> File: Save corrected captions
+@enduml

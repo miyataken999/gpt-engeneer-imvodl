@@ -1,0 +1,10 @@
+youtube_transcript_generator
+src
+__init__.py
+youtube_api.py
+transcript_processor.py
+corrector.py
+main.py
+requirements.txt
+README.md
+sequence_diagram.puml
